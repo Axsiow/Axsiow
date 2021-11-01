@@ -19,8 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/axstro_ef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axstro_ef" height="30" width="40" /></a>
+<a href="https://github.com/Axsiow" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Axsiow" height="30" width="40" /></a>
+<a href="https://twitter.com/Astro_Axsiow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Astro_Axsiow" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/enzofogliano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzofogliano" height="30" width="40" /></a>
 </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axsiow&show_icons=true&theme=dracula&locale=en&layout=compact" alt="axsiow" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axsiow&show_icons=true&theme=dracula&locale=en" alt="axsiow" /></p>
