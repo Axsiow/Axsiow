@@ -15,7 +15,7 @@
  
 - 🆓 All my projects are available under MIT license
 
-- 📫 How to reach me **contact@axsiow.ovh**
+- 📫 How to reach me **contact@axsiow.tf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
