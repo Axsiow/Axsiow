@@ -13,7 +13,7 @@
 
 - I mainly work on MacOS and Unix (Fedora / RedHat)
  
-- 🆓 All my projects are available under MIT license
+- 🆓 All my projects are available in MIT license
 
 - 📫 How to reach me **contact@axsiow.tf**
 
