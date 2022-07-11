@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Axsiow</h1>
 <h3 align="center">Computer science student, passionate about science, new technologies, (astro)physics and astronomy</h3>
 
+- 👩‍💻 I am currently working for STMicroelectronics
 - 👩‍🎓 Network engineer apprentice student at [Grenoble INP Ensimag](https://ensimag.grenoble-inp.fr/)
+- 🇫🇷 I come from Grenoble, France!
+- 🌐 I speak French, English and Italian!
+- 💻 I work on MacOS and Unix (Fedora / RedHat)
+- 🆓 All my projects are available in MIT license
+- 📫 How to reach me contact@axsiow.tf
 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
