@@ -24,5 +24,8 @@
 <a href="https://linkedin.com/in/enzofogliano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzofogliano" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axsiow&show_icons=true&theme=dracula&locale=en&layout=compact" alt="axsiow" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axsiow" alt="axsiow" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axsiow&show_icons=true&theme=dracula&locale=en&layout=compact" alt="axsiow" / </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axsiow&show_icons=true&theme=dracula&locale=en" alt="axsiow" /></p>
