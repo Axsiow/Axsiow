@@ -3,7 +3,7 @@
 
 - 👩‍💻 I am currently working for [STMicroelectronics](https://www.st.com)
 
-- 👩‍🎓 Network engineer apprentice student at Grenoble [EPSI](https://www.epsi.fr)
+- 👩‍🎓 Network engineer apprentice student at Grenoble [Grenoble INP Ensimag](https://ensimag.grenoble-inp.fr/)
 
 - 🇫🇷 I come from Grenoble, France!
 
